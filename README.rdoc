@@ -1,4 +1,1 @@
-== README
-<h1>Rails Tutorial Sample Application</h1>
-
-<tt>rake doc:app</tt>.
+Rails Tutorial Sample Application
